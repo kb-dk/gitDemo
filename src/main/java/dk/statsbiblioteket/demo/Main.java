@@ -8,5 +8,6 @@ public class Main {
         System.out.println("This is the Demo of the Git");
         System.out.println(new Date());
         System.out.println("This is now real");
+        System.out.println("Print all the lines!!!");
     }
 }
